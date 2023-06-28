@@ -1,8 +1,12 @@
-Hello World 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text= Anderson de Sousa Brito"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Anderson+de+Sousa+Brito;I'm+22+years+old;I+am+from+Paulinia,+SP;I+study+development+in+Python+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Andy4433&bg_color=000000&color=9e4c98&line=5c0f67&point=440b6b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 Ok, no problem If you don't know me. Nice to meet you.
 
-#!/usr/bin/python3
+# !/usr/bin/python3
 # -*- Hello World 👋 -*-
 
 class Me:
@@ -53,33 +57,36 @@ class Me:
 
 
 
-Bancos de dados/data base:
+# Bancos de dados/data base:
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-Sites que uso para estudar programação
+# Sites que uso para estudar programação
 
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 
-IDEs:
+# IDEs:
 
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-liguagens/languages:
+# liguagens/languages:
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-Design:
+# Design:
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
+
+
+
 
 
 ![Andy4433 GitHub stats](https://github-readme-stats.vercel.app/api?username=Andy4433&show_icons=true&theme=radical)
