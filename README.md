@@ -82,4 +82,4 @@ Design:
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
 
-[![Andy4433 GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Andy4433&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+![Andy4433 GitHub stats](https://github-readme-stats.vercel.app/api?username=Andy4433&show_icons=true&theme=radical)
