@@ -1,13 +1,18 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text= Anderson de Sousa Brito"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#b434eb&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Anderson+de+Sousa+Brito;I'm+22+years+old;I+am+from+Paulinia,+SP;I+study+development+in+Python+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b434eb&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD;+MY+NAME+is+Anderson+de+Sousa+Brito;I'm+22+years+old;I+am+from+Paulinia,+SP;I+study+development+in+Python+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Andy4433&bg_color=000000&color=9e4c98&line=5c0f67&point=440b6b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-Ok, no problem If you don't know me. Nice to meet you.
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Andy4433&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Anderson de Sousa Brito github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy4433&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
-# !/usr/bin/python3
-# -*- Hello World 👋 -*-
+
+
+!/usr/bin/python3
+# -*- Hello World 👋 -*- 
 
 class Me:
     
@@ -80,7 +85,7 @@ class Me:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-# Design:
+# Design tools:
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
@@ -89,4 +94,4 @@ class Me:
 
 
 
-![Andy4433 GitHub stats](https://github-readme-stats.vercel.app/api?username=Andy4433&show_icons=true&theme=radical)
+
