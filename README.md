@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#b434eb&height=120&section=header"/>
+<br>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b434eb&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD+☀;+I'm+Anderson;I+am+from+Paulinia,+SP;I+study+development+in+🐍Python+at+Senai;Be+Welcome!+to+my+Github+profile+:%29;let's+get+started+😎)](https://git.io/typing-svg)
 
@@ -90,14 +90,9 @@ class Me:
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
+</br>
 
 
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Andy4433}/count.svg" /></p> 
-<br></div>
-  
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#b434eb&height=120&section=footer"/>
 
 
