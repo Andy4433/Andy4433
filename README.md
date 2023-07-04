@@ -24,6 +24,7 @@ class Me:
         self.location = "Paulinia,São Paulo - Brazil"
 
         self.knowledge_base = [
+            "C"
             "Python"
             "MySQL"
             "PHP"
