@@ -2,18 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b434eb&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD+☀;+I'm+Anderson;I+am+from+Paulinia,+SP;I+study+development+in+🐍Python+at+Senai;Be+Welcome!+to+my+Github+profile+:%29;let's+get+started+😎)](https://git.io/typing-svg)
 
-[![Andy4433 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Andy4433&bg_color=000000&color=9e4c98&line=5c0f67&point=440b6b&area=true&hide_border=true)](https://github.com/Andy4433/github-readme-activity-graph)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Andy4433&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Anderson de Sousa Brito github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy4433&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-
 !/usr/bin/python3
 # -*- Hello World 👋 -*- 
 
-class Me:
+    class Me:
     
     def __init__(self):
         
@@ -24,48 +16,68 @@ class Me:
         self.location = "Paulinia,São Paulo - Brazil"
 
         self.knowledge_base = [
-            "C"
-            "Python"
-            "MySQL"
-            "PHP"
-            "Database",
-            "Security",   
+        "Python", "JAVA", "Kotlin", "Mysql", "PostgreeSQL", "Pacote office (excel,word,power point)",
+        "Pandas", "Flask", "git", "API" "DJANGO", "Pytest", "DOCKER"
         ]   
-        self.knowledge_base.insert(0, "Geek")
+        self.knowledge_base.insert(0, "Geek")  
         
-    def sayHi(self):
+    def sayOi(self):
         print(
-            """Hello my friend, thanks for dropping by!
-            Sou um profissional com experiência em análise química adquirida ao trabalhar em um laboratório de analises de combustível. 
-            Nesse período, desenvolvi habilidades em análise de densidade de diesel, álcool e gasolina, ponto de fulgor, teor de água no Karl Fisher, 
-            destilação de gasolina e diesel, teor alcoólico, pH e condutividade elétrica, viscosidade e confecção de laudos de qualidade.
-            No entanto, sempre tive interesse pela área de programação e decidi investir nessa carreira. Atualmente, estou me aprimorando nas habilidades de programação, com foco em Python e Banco de Dados MySQL. 
-            Tenho realizado cursos online e escolas profissionalizantes. Meu objetivo é encontrar uma oportunidade entusiasmante para aplicar meus conhecimentos na área de programação, 
-            visando contribuir de forma efetiva em projetos que envolvam o desenvolvimento e a análise de sistemas utilizando essas tecnologias. 
-            Sou uma pessoa comprometida e proativa, sempre buscando evoluir e aprofundar meu conhecimento nesse campo em constante evolução. Acredito na importância do 
-            aprendizado contínuo e estou sempre aberto a novos desafios e oportunidades de crescimento."""
+            """Estou pronto para abraçar desafios emocionantes no campo do desenvolvimento! Minha paixão por programação
+            e minha disposição para aprender continuamente fazem de mim um candidato ideal para sua equipe. Faço parte de
+            um projeto e atuo como  desenvolvedor backend em um projeto que visa melhorar a eficiência da gestão de projetos. 
+            Utilizo Python, MySQL, Git e Docker para desenvolver a API de registro do projeto. """
         )
     def sayHi(self):
         print(
-           """Hello, my friend, thanks for dropping by!
-            I am a professional with experience in chemical analysis acquired while working in a fuel analysis laboratory.
-            During this time, I developed skills in analyzing the density of diesel, alcohol, and gasoline, flash point, water content using Karl Fisher method, distillation of gasoline and diesel, alcohol content, 
-            pH and electrical conductivity, viscosity, and preparation of quality reports.However, I have always been interested in the programming field and decided to invest in this career. 
-            Currently, I am enhancing my programming skills, with a focus on Python and MySQL Database. I have been taking online courses and attending professional schools to further my knowledge. 
-            My objective is to find an exciting opportunity to apply my expertise in the programming field, aiming to make effective contributions to projects involving 
-            the development and analysis of systems using these technologie. I am a committed and proactive individual, always seeking to evolve and deepen my knowledge in this ever-evolving field. 
-            I believe in the importance of continuous learning and I am always open to new challenges and growth opportunities."""
+           """I'm ready to embrace exciting challenges in the field of development! My passion for programming and my willingness to
+           continually learn make me an ideal candidate for your team. I am part of a project and work as a backend developer on a project
+           that aims to improve the efficiency of project management. I use Python, MySQL, Git and Docker to develop the project registration API."""
         )
 
         print("Thanks for dropping by, hope you find some of my work interesting.")
-        
+    
+    def expirience profissional(self):
+      print(
+        """
+          SENAI Ricardo Figueiredo Terra • Desenvolvedor Mobile ANDROID - SENAI
+          Cursos de qualificação profissional • Concluído em 01/12/2023
+          Curso de fundamentos para o desenvolvimento de aplicativos para celulares, utilizando a linguagem Kotlin, 
+          a linguagem oficial da Google desde 2017.
+          
+          SENAI Ricardo Figueiredo Terra • AI 900
+          Concluído em 01/09/2023
+          Fundamentos da programação de IA em nuvem, compreensão de carga de trabalho AI, com criação de modelos de 
+          inteligência artificial como visual e conversacional.
+          
+          IBM Python for Data Science
+          Concluido em 20/07/2023
+          Python para ciência de dados, bem como programação em geral. Este curso de Python para 
+          iniciantes o levará do zero à programação em Python em questão de horas. Após a conclusão, 
+          conseguimos escrever seus próprios scripts Python.
+
+          
+          SENAI Ricardo Figueiredo Terra  Programação Python
+          Cursos de qualificação profissional  Concluído em 01/07/2023
+          Fundamentos da linguagem Python, mostrando os fundamentos de sintaxe. Desenvolvimento de competências relativas a programação utilizando
+          codificações na linguagem Python com diferentes níveis de complexidade: Identificar os requisitos do problema e pré requisitos do software.
+          Elaborar fluxograma da arquitetura da solução. Configurar o ambiente de desenvolvimento em Python. Elaborar programas em linguagem Python.
+          Realizar teste de mesa de programas em linguagem Python. Realizar a refatoração nos códigos de linguagem Python
+          
+          Harvard • CS50
+          Cursos de qualificação profissional • Concluído em 01/07/2023
+          Entendimento amplo sobre a Ciência da Computação e programação, Conceitos de algoritmos, estruturas de dados, 
+          abstração, encapsulamento, gerenciamento de recursos, segurança, engenharia de software e desenvolvimento web, 
+          Familiaridade com várias linguagens de programação, incluindo C, Python, SQL.
+                  """
+                )
 
 
 
 # Bancos de dados/data base:
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 # Sites que uso para estudar programação
 
@@ -78,18 +90,42 @@ class Me:
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+
+
 # liguagens/languages:
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
+# tecnologias:
+
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 # Design tools:
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
+# linguaguens que pretendo estudar:
+
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+
+# Contatos:
+
+    gmail:
+    anderson.s.brito613@gmail.com
+
+    linkedin:
+    www.linkedin.com/in/anderson-de-sousa-brito-95b937b5
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
