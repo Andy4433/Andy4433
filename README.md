@@ -70,10 +70,12 @@
           
           SENAI Ricardo Figueiredo Terra  Programação Python
           Cursos de qualificação profissional  Concluído em 01/07/2023
-          Fundamentos da linguagem Python, mostrando os fundamentos de sintaxe. Desenvolvimento de competências relativas a programação utilizando
-          codificações na linguagem Python com diferentes níveis de complexidade: Identificar os requisitos do problema e pré requisitos do software.
-          Elaborar fluxograma da arquitetura da solução. Configurar o ambiente de desenvolvimento em Python. Elaborar programas em linguagem Python.
-          Realizar teste de mesa de programas em linguagem Python. Realizar a refatoração nos códigos de linguagem Python
+          Fundamentos da linguagem Python, mostrando os fundamentos de sintaxe. Desenvolvimento de
+          competências relativas a programação utilizando codificações na linguagem Python com 
+          diferentes níveis de complexidade: Identificar os requisitos do problema e pré requisitos do software.
+          Elaborar fluxograma da arquitetura da solução. Configurar o ambiente de desenvolvimento 
+          em Python. Elaborar programas em linguagem Python. Realizar teste de mesa de programas em linguagem 
+          Python. Realizar a refatoração nos códigos de linguagem Python
           
           Harvard • CS50
           Cursos de qualificação profissional • Concluído em 01/07/2023
@@ -129,6 +131,12 @@
 ![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
+# Contato:
+email:
+
+    anderson.s.brito613@gmail.com
+
+    
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
