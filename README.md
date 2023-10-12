@@ -1,8 +1,18 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#f003fc&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b434eb&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD+☀;+I'm+Anderson;I+am+from+Paulinia,+SP;I+study+development+in+🐍Python+at+Senai;Be+Welcome!+to+my+Github+profile+:%29;let's+get+started+😎)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b434eb&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD+☀;+I'm+Anderson;I+am+from+Paulinia,+SP;I+study+development+in+🐍Mobile+at+Senai;Be+Welcome!+to+my+Github+profile+:%29;let's+get+started+😎)](https://git.io/typing-svg)
 
-!/usr/bin/python3
+ <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi i'm Anderson (Oi eu sou Anderson) <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<p><em>Junior Backend developer (desenvolvedor backend junior) <a href="https://www.oneorigin.us/">
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+[![Linkedin: Andys](https://img.shields.io/badge/-Andy4433-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-de-sousa-brito-95b937b5
+)](https://www.linkedin.com/in/anderson-de-sousa-brito-95b937b5/)
+![GitHub followers](https://img.shields.io/github/followers/Andy4433?label=Follow&style=social)
+
 # -*- Hello World 👋 -*- 
 
     class Me:
@@ -17,7 +27,7 @@
 
         self.knowledge_base = [
         "Python", "JAVA", "Kotlin", "Mysql", "PostgreeSQL", "Pacote office (excel,word,power point)",
-        "Pandas", "Flask", "git", "API" "DJANGO", "Pytest", "DOCKER"
+        "Pandas", "Flask", "git", "API" "DJANGO", "Pytest", ""Docker🐳""
         ]   
         self.knowledge_base.insert(0, "Geek")  
         
@@ -71,8 +81,10 @@
           Familiaridade com várias linguagens de programação, incluindo C, Python, SQL.
                   """
                 )
+ <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 # Bancos de dados/data base:
 
@@ -118,14 +130,6 @@
 ![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-
-# Contatos:
-
-    gmail:
-    anderson.s.brito613@gmail.com
-
-    linkedin:
-    www.linkedin.com/in/anderson-de-sousa-brito-95b937b5
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
