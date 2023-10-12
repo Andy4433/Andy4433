@@ -32,16 +32,18 @@
         
     def sayOi(self):
         print(
-            """Estou pronto para abraçar desafios emocionantes no campo do desenvolvimento! Minha paixão por programação
-            e minha disposição para aprender continuamente fazem de mim um candidato ideal para sua equipe. Faço parte de
-            um projeto e atuo como  desenvolvedor backend em um projeto que visa melhorar a eficiência da gestão de projetos. 
-            Utilizo Python, MySQL, Git e Docker para desenvolver a API de registro do projeto. """
+            """Estou pronto para abraçar desafios emocionantes no campo do desenvolvimento! Minha paixão
+            por programação e minha disposição para aprender continuamente fazem de mim um candidato 
+            ideal para sua equipe. Faço parte de um projeto e atuo como  desenvolvedor backend em um projeto 
+            que visa melhorar a eficiência da gestão de projetos. Utilizo Python, MySQL, Git e Docker para desenvolver 
+            a API de registro do projeto. """
         )
     def sayHi(self):
         print(
-           """I'm ready to embrace exciting challenges in the field of development! My passion for programming and my willingness to
-           continually learn make me an ideal candidate for your team. I am part of a project and work as a backend developer on a project
-           that aims to improve the efficiency of project management. I use Python, MySQL, Git and Docker to develop the project registration API."""
+           """I'm ready to embrace exciting challenges in the field of development! My passion for programming 
+           and my willingness to continually learn make me an ideal candidate for your team. I am part of a project 
+           and work as a backend developer on a project that aims to improve the efficiency of project management. 
+           I use Python, MySQL, Git and Docker to develop the project registration API."""
         )
 
         print("Thanks for dropping by, hope you find some of my work interesting.")
